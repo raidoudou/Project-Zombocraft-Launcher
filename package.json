@@ -14,7 +14,7 @@
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://github.com/raidoudou/Project-Zombocraft-Launcher/blob/master/e5c6ae98cf9834ab69534b1e13235aca.png"
+        "icon": "node build.js --icon=https://github.com/raidoudou/Project-Zombocraft-Launcher/blob/master/icon.png"
     },
     "license": "CCANC",
     "nodemonConfig": {
